@@ -1,6 +1,5 @@
 import { StrictMode } from "react";
     import ReactDOM from "react-dom";
-    
     import WebFont from "webfontloader";
     import App from "./App";
     WebFont.load({
